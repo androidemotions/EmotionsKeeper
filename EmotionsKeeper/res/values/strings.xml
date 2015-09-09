@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emotions Keeper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Angry">Angry</string>
+    <string name="Satisfy">Satisfy</string>
+    <string name="Good">Good</string>
+    <string name="Happy">Happy</string>
+    <string name="MainText">Keep your emotion</string>
+
+</resources>
